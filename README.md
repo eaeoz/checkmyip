@@ -1,26 +1,20 @@
-\# locatemyip
+# locatemyip
 
+### Command to Display Your Public IP
 
+#### Without installation run: 
 
-\### command to check your public ip address (Without installation run: npx checkmyip).
+`npx checkmyip`
 
-
+#### Installation:
 
 `sudo npm install -g checkmyip`
 
-
-
-\- Simply run:
-
-
+* Simply run:
 
 `checkmyip`
 
-
-
-\- Output example:
-
-
+* Output example:
 
 `123.456.789.123`
 
