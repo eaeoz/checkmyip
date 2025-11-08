@@ -6,6 +6,8 @@
 
 `npx checkmyip`
 
+***
+
 #### Installation:
 
 `sudo npm install -g checkmyip`
