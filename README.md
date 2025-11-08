@@ -1,4 +1,4 @@
-# locatemyip
+# checkmyip
 
 ### Command to Display Your Public IP
 
