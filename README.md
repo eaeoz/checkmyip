@@ -2,6 +2,8 @@
 
 ### Command to Display Your Public IP
 
+***
+
 #### Without installation run: 
 
 `npx checkmyip`
