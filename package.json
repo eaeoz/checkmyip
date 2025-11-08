@@ -1,0 +1,14 @@
+{
+  "name": "checkmyip",
+  "version": "1.0.1",
+  "description": "Display your public IP",
+  "main": "index.js",
+  "bin": {
+    "checkmyip": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
